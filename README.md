@@ -29,3 +29,5 @@ Card (New) – to display key metrics like Total Sales, Profit, Orders.
 2.Tracked monthly sales trends.
 3.Analyzed the relationship between discount and profit.
 4.Enabled easy data filtering with slicers for dynamic insights.
+
+-> Snapshot : https://github.com/mdsajidraza21/Sales-Data-Analysis-Dashboard/blob/main/1.Overview.png
